@@ -1,3 +1,12 @@
+
+## 01/FEB MON
+- t50-6 login
+  - ForgotPassword: logic done.
+    - use code, not link (workflow's changed)
+    - new password: url access -> a part of Forgot password
+  - TODO: form validation
+  - TODO: enhance authprovider with Carl
+
 ## 29/JAN FRI
 - t50-6 login
   - Login, Forgot-password, New-password pages: ui done.
