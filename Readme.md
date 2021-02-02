@@ -1,4 +1,12 @@
+## 02/FEB TUE
+- t50-6 login
+  - pull Carl's changes around authprovide & update to use cognito api
+  - update the design
+  - TODO: form validation, catch up the feedback from Jen
+- BELT
+  - investigate the crash
 
+------------
 ## 01/FEB MON
 - t50-6 login
   - ForgotPassword: logic done.
