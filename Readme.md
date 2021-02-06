@@ -1,3 +1,19 @@
+## 06/FEB SAT
+- t50-6 login
+  - jest unit test: almost 100% coverage
+
+## 05/FEB FRI
+- t50-6 login
+  - CloudFront config fix: add error page (404 -> index.html & 200)
+  - Config API (including CORS)
+  - jest unit test: make it correct & better coverage
+
+## 04/FEB THU
+- t50-6 login
+  - error message for wrong password
+  - caps lock message
+  - add jest unit test (just coverage > 80%)
+
 ## 03/FEB WED
 - t50-6 login
   - update the design against Jen's feedback
