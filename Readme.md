@@ -1,3 +1,13 @@
+## 08/FEB MON
+- t50-6 login
+  - code reviewed
+  - go back to the previous page after login
+  - #TODO: f5, redirect to root when logged-in user visits login page
+- t50-120 create a person
+  - test codes
+
+------------
+
 ## 06/FEB SAT
 - t50-6 login
   - jest unit test: almost 100% coverage
