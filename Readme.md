@@ -1,10 +1,35 @@
+## 10/FEB WED
+- t50-120 create a person
+  - T50-118 Create and Store
+    - understand the backend architecture from Lea
+    - get the sample code and postman collection
+    - connect to the database in lab accout
+    - initialize organisation-service (copy from payroll-service)
+    - jest configuration (babel, typescript)
+    - how to mock postgresql: https://stackoverflow.com/questions/59540432/how-to-mock-postgresql-pg-in-node-js-using-jest
+  * TODO
+    - write unit test code
+    - add environment variables into fargate (aws credential - only for POC)
+  - t50-7 navigation
+    - code review: updated
+  - t50-117 Data input
+    - comes along with t50-7
+
+## 09/FEB TUE
+- t50-120 create a person
+  - t50-7 navigation
+    - deved screen and test
+    - deployeed to http://dwqnootvjrgl8.cloudfront.net/
+    - Merge request
+
 ## 08/FEB MON
 - t50-6 login
   - code reviewed
   - go back to the previous page after login
   - #TODO: f5, redirect to root when logged-in user visits login page
 - t50-120 create a person
-  - test codes
+  - t50-7 navigation
+    - test codes
 
 ------------
 
