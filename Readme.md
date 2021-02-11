@@ -1,3 +1,17 @@
+## 11/FEB THU
+- t50-120 create a person
+  - T50-118 Create and Store
+    - build pipeline
+    - eslint configuration
+    - fix the jest configuration by Carl
+    - create employee normal process done
+  * DOTO
+    - check the api path to Lea
+    - test case
+  - t50-7 navigation
+    - fix the bug on test
+    - change label and url path
+
 ## 10/FEB WED
 - t50-120 create a person
   - T50-118 Create and Store
@@ -10,6 +24,7 @@
   * TODO
     - write unit test code
     - add environment variables into fargate (aws credential - only for POC)
+      - Go to Task Definition on ECS and create new revision
   - t50-7 navigation
     - code review: updated
   - t50-117 Data input
