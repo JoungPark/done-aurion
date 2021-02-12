@@ -1,3 +1,11 @@
+## 12/FEB FRI
+- t50-120 create a person
+  - T50-118 Create and Store
+    - employee service: done (get, list, create and delete)
+    - jest: env and db connect: done (mock process.env, aws secret manager)
+  * TODO
+    - jest: employee (mock db)
+
 ## 11/FEB THU
 - t50-120 create a person
   - T50-118 Create and Store
@@ -5,7 +13,7 @@
     - eslint configuration
     - fix the jest configuration by Carl
     - create employee normal process done
-  * DOTO
+  * TODO
     - check the api path to Lea
     - test case
   - t50-7 navigation
