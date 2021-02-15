@@ -1,3 +1,14 @@
+## 15/FEB MON
+- t50-120 create a person
+  - T50-118 Create and Store
+    - test codes: done
+    - back to frontend
+    - creating config context
+- TTN-4733 QSS 500 Errors
+  - sign-off
+
+------------
+
 ## 12/FEB FRI
 - t50-120 create a person
   - T50-118 Create and Store
