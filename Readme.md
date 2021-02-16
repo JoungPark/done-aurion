@@ -1,3 +1,15 @@
+## 16/FEB TUE
+- t50-120 create a person
+  - T50-118 Create and Store
+	- cors in backend
+	- create employee api call
+	- snackbar / notistack
+    - creating ConfigProvider
+	- jest
+	- TODO: Update design on Jen's comment
+	        Local Api Gateway
+			Test in aws ecs
+
 ## 15/FEB MON
 - t50-120 create a person
   - T50-118 Create and Store
