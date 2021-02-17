@@ -1,3 +1,12 @@
+## 17/FEB WED
+- t50-120 create a person
+  - T50-118 Create and Store
+    - Deploy testing environment in Lab account
+	- org-service merged
+	- TODO: 
+    - call api via api-gateway
+    - Update design on Jen's comment
+
 ## 16/FEB TUE
 - t50-120 create a person
   - T50-118 Create and Store
@@ -7,7 +16,6 @@
     - creating ConfigProvider
 	- jest
 	- TODO: Update design on Jen's comment
-	        Local Api Gateway
 			Test in aws ecs
 
 ## 15/FEB MON
