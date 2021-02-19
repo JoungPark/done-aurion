@@ -1,3 +1,15 @@
+## 19/FEB FRI
+- t50-120 create a person
+  - T50-118 Create and Store
+    - fix build error
+    - add function to add group to the user
+
+## 18/FEB TUE
+- t50-120 create a person
+  - T50-118 Create and Store
+    - call api via api-gateway
+    - update design on Jen's comment
+
 ## 17/FEB WED
 - t50-120 create a person
   - T50-118 Create and Store
