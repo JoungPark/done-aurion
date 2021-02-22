@@ -1,10 +1,26 @@
+## 22/FEB MON
+- t50-120 create a person
+  - T50-118 Create and Store
+    - Merged
+    - TODO: update status
+- T50-120 Run A Simple Pay
+  - T50-16 Conduct a payrun
+    - UI thing
+- some code reviews
+
+------------
+
 ## 19/FEB FRI
 - t50-120 create a person
   - T50-118 Create and Store
     - fix build error
     - add function to add group to the user
+- T50-120 Run A Simple Pay
+  - T50-16 Conduct a payrun
+    - 3 amogos
+    - UI thing
 
-## 18/FEB TUE
+## 18/FEB THU
 - t50-120 create a person
   - T50-118 Create and Store
     - call api via api-gateway
