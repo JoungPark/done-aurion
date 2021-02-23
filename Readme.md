@@ -1,3 +1,11 @@
+## 23/FEB TUE
+- T50-120 Run A Simple Pay
+  - T50-16 Conduct a payrun
+    - jest
+    - service: add status into Employee object
+    - show only committed member on pay-run page
+- fix pipeline problem making CORS in org service
+
 ## 22/FEB MON
 - t50-120 create a person
   - T50-118 Create and Store
@@ -5,8 +13,9 @@
     - TODO: update status
 - T50-120 Run A Simple Pay
   - T50-16 Conduct a payrun
-    - UI thing
+    - UI thing & got some feedback from Jen
 - some code reviews
+  - build/docker.. -> update buildspec for cicd
 
 ------------
 
