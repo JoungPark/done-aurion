@@ -1,3 +1,9 @@
+## 24/FEB WED
+- T50-120 Run A Simple Pay
+  - T50-19 add payrun spinner
+    - done
+- fix cicd problem
+
 ## 23/FEB TUE
 - T50-120 Run A Simple Pay
   - T50-16 Conduct a payrun
