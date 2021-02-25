@@ -1,3 +1,9 @@
+## 25/FEB THU
+- T50-120 Run A Simple Pay
+  - T50-13 pay summary
+    - 3 amigos
+    - table done
+
 ## 24/FEB WED
 - T50-120 Run A Simple Pay
   - T50-19 add payrun spinner
