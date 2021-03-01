@@ -1,3 +1,19 @@
+## 1/MAR MON
+- T50-120 Run A Simple Pay
+  - T50-15 aba
+    - 3 amigos
+    - investigate s3 secure
+  - T50-13 pay summary
+    - fix build error in aws codebuild
+      - increase node memory
+
+------------
+
+## 26/FEB FRI
+- T50-120 Run A Simple Pay
+  - T50-13 pay summary
+    - export pdf
+
 ## 25/FEB THU
 - T50-120 Run A Simple Pay
   - T50-13 pay summary
