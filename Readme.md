@@ -1,3 +1,23 @@
+## 4/MAR THU
+- T50-120 Run A Simple Pay
+  - T50-15 aba
+    - done
+    - bugfix on build-mode to get object (Amplify.Storage was null)
+  - T50-8 access to payslip
+    - 3 amigos
+
+## 3/MAR WED
+- set-up Mac
+- bug fix on connecting config api (Carl's change)
+- T50-120 Run A Simple Pay
+  - T50-15 aba
+    - investigate s3 secure
+
+## 2/MAR TUE
+- T50-120 Run A Simple Pay
+  - T50-15 aba
+    - investigate s3 secure
+
 ## 1/MAR MON
 - T50-120 Run A Simple Pay
   - T50-15 aba
