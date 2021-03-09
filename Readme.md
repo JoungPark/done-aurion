@@ -1,8 +1,37 @@
+## 9/MAR TUE
+- T50-120 Run A Simple Pay
+  - T50-9 snackbar aba
+    - 3 amigos
+    - DONE
+  - T50-144 snackbar payslips
+    - 3 amigos
+    - DONE
+- T50-39 Employee Payslip
+  - T50-2 Generate and Send Payslip Notification
+    - 3 amigos
+    - make Payroll service have same basic configuration to Organisation service
+    - doing
+
+## 8/MAR MON
+- T50-39 Employee Payslip
+  - T50-8 access to payslip
+    - Jest done
+  - T50-11 payslip download
+    - done
+
+------------
+
+## 5/MAR FRI
+- T50-39 Employee Payslip
+  - T50-8 access to payslip
+    - Dev done
+
 ## 4/MAR THU
 - T50-120 Run A Simple Pay
   - T50-15 aba
     - done
     - bugfix on build-mode to get object (Amplify.Storage was null)
+- T50-39 Employee Payslip
   - T50-8 access to payslip
     - 3 amigos
 
