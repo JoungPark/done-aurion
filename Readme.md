@@ -1,3 +1,9 @@
+## 10/MAR WED
+- T50-120 Run A Simple Pay
+  - T50-2 Generate and Send Payslip Notification
+    - back-end payroll done
+    - frontend-web almost done
+
 ## 9/MAR TUE
 - T50-120 Run A Simple Pay
   - T50-9 snackbar aba
@@ -6,7 +12,6 @@
   - T50-144 snackbar payslips
     - 3 amigos
     - DONE
-- T50-39 Employee Payslip
   - T50-2 Generate and Send Payslip Notification
     - 3 amigos
     - make Payroll service have same basic configuration to Organisation service
