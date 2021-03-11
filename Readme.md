@@ -1,3 +1,10 @@
+## 11/MAR THU
+- T50-120 Run A Simple Pay
+  - T50-2 Generate and Send Payslip Notification
+    - done
+- Design refinement
+  - Login
+
 ## 10/MAR WED
 - T50-120 Run A Simple Pay
   - T50-2 Generate and Send Payslip Notification
