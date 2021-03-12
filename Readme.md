@@ -1,3 +1,9 @@
+## 12/MAR FRI
+- Design refinement
+  - Login
+    - add LoginContainerUI into Storybook
+    - use it on frontend-web
+
 ## 11/MAR THU
 - T50-120 Run A Simple Pay
   - T50-2 Generate and Send Payslip Notification
