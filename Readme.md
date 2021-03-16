@@ -1,3 +1,18 @@
+## 16/MAR TUE
+- Design refinement
+  - Login
+    - OutlinedTextField having dark shaded primary colour
+    - add PasswordBox into Storybook
+
+## 15/MAR MON
+- Design refinement
+  - Login
+    - add custom color to pallete
+    - investigate Material System
+      - especially color system
+
+------------
+
 ## 12/MAR FRI
 - Design refinement
   - Login
