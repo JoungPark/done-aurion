@@ -1,3 +1,10 @@
+## 17/MAR WED
+- Design refinement
+  - TextField & PasswrodField with theme nesting
+    - have a different primary color
+  - Button with theme nesting
+    - diabled color is different button variant
+
 ## 16/MAR TUE
 - Design refinement
   - Login
