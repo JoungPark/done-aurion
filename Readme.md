@@ -1,3 +1,15 @@
+## 19/MAR FRI
+- T50-136 Design refinement - Login
+  - done: to QA
+- T50-138 UI Debt - Create a person
+  - done: to QA
+- T50-160 UI Debt - Employee Portal
+  - done: to QA
+
+## 18/MAR THU
+- Tried to create Button/Textfield components in storybook-ui
+  - needs more time.. created a new task for that
+
 ## 17/MAR WED
 - Design refinement
   - TextField & PasswrodField with theme nesting
