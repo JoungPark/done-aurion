@@ -1,3 +1,11 @@
+## 22/MAR MON
+- T50-161 Investigate ORM
+  - DynamoDB mapper for Tenant Config
+    - new Tenant
+    - get TenantConfigs
+
+------------
+
 ## 19/MAR FRI
 - T50-136 Design refinement - Login
   - done: to QA
