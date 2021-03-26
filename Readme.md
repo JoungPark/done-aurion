@@ -1,3 +1,23 @@
+## 26/MAR FRI
+- T50-161 Investigate ORM
+  - shared
+- T50-156 Button style
+  - investigating
+
+## 25/MAR THU
+- T50-161 Investigate ORM
+  - (TypeORM) add index, more relation, transaction, logging
+
+## 24/MAR WED
+- T50-161 Investigate ORM
+  - use TypeORM
+    - run a normal query
+    - connection with schema, find, save
+
+## 23/MAR TUE
+- T50-161 Investigate ORM
+  - tried Sequelize
+
 ## 22/MAR MON
 - T50-161 Investigate ORM
   - DynamoDB mapper for Tenant Config
