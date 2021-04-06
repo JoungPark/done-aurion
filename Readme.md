@@ -1,3 +1,40 @@
+## 07/APR WED ~ 09/APR FRI (Annual Leave)
+
+## 06/MAR TUE
+- T50-156 Button style
+  - the padding of the legend: 4px (default: 5px)
+  - why I am doing this: Material Design and Material UI library are a little bit different.
+
+## 05/APR MON (HOLIDAY)
+
+------------
+
+## 02/APR FRI (HOLIDAY)
+
+## 01/APR THU
+- T50-156 Button style
+  - found the way how TextField has icons
+  - update storybook textfield componnent
+
+## 31/MAR WED
+- T50-156 Button style
+  - got feeback of the spacing before and after the label on the outlined TextField
+  - found the build error on the pipeline
+    - reason: the restriction on AWS user for deploying
+    - solov: use a different user
+
+## 30/MAR TUE
+- T50-156 Button style
+  - update Textfield style (override theme)
+  - deploy Storybook
+
+## 29/MAR MON (begin 3days lockdown)
+- workshop
+- discussion of Carl's configure driven mui component
+- T50-156 Button style
+  - update button style (override theme)
+
+------------
 ## 26/MAR FRI
 - T50-161 Investigate ORM
   - shared
