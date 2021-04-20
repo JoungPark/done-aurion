@@ -1,3 +1,42 @@
+## 20/APR TUE
+- next.js
+  - pageContainer
+## 20/APR TUE
+- next.js
+  - add _app.tsx which means configuration, theme and auth(login, user info)
+  - pages:
+    - done: login, forgot password
+    - done: index/main -> redirect the page depending on the role.
+
+## 19/APR MON
+- next.js
+  - build success in nerna and rush
+
+------------
+
+## 16/APR FRI
+- next.js
+  - coverting react.js to next.js
+  - build failure when the component is out of the project.
+## 15/APR THU
+- next.js
+  - read docs about deployment 
+
+## 14/APR WED
+- next.js
+  - read docs about deployment
+
+## 13/APR TUE
+- T50-156 Button style
+  - merged
+- next.js
+  - read docs
+## 12/APR MON
+- T50-156 Button style
+  - done
+
+------------
+
 ## 07/APR WED ~ 09/APR FRI (Annual Leave)
 
 ## 06/MAR TUE
