@@ -1,6 +1,24 @@
-## 20/APR TUE
+## 23/APR FRI
+- next.js
+  - jest: mock next/router
+  - problem: next.js is trying to build all files in pages including test files.
+    - easiest: put test folder out of pages folder
+    - solved: add ignore pattern into webpack config in next.config.js
+  - TODO:
+    - build pipeline
+
+## 22/APR THU
+- next.js
+  - image in storybook: just put them to public of next.js project
+  - jest: access the components in storybook
+
+## 21/APR WED
 - next.js
   - pageContainer
+  - pages:
+    - done: all payroll admin and all employee
+    - done: on board
+    - done: updatepassword
 ## 20/APR TUE
 - next.js
   - add _app.tsx which means configuration, theme and auth(login, user info)
