@@ -1,11 +1,20 @@
+## 27/APR TUE
+- next.js
+  - jest-ed (re-done a bit because pages updated by re-usable input)
+  - TODO:
+    - fix error on reusuable input
+    - build pipeline
+
+## 26/APR MON (HOLIDAY)
+
+------------
+
 ## 23/APR FRI
 - next.js
   - jest: mock next/router
   - problem: next.js is trying to build all files in pages including test files.
     - easiest: put test folder out of pages folder
     - solved: add ignore pattern into webpack config in next.config.js
-  - TODO:
-    - build pipeline
 
 ## 22/APR THU
 - next.js
