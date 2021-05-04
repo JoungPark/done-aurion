@@ -1,3 +1,36 @@
+## 04/MAY TUE
+- DLV-11 global config service
+  - created lambda: { name: t50-global-config } function and linked to api-gateway
+  - reviewed the global config api spec
+  - add deploy procedure to lambda
+  - build local test environment
+
+## 03/MAY MON (HOLIDAY)
+
+------------
+## 30/APR FRI
+- global config service
+  - building test env.
+    - lambda: { name: joung-test-app }
+    - api-gateway: { name: joung-test-api }
+    - loadbalancer: {
+        name: joung-test-lb
+        target-group: {
+          name: joung-target-group
+        },
+      }
+
+## 29/APR THU
+- next.js
+  - discuss the problem next.js trying to generate the route/page against the test files.
+    - result: source code file name
+  - fix eslint
+  - merged
+## 28/APR WED
+- next.js
+  - shared what I've changed to the team
+  - Problem: next.js is trying to generate the route/page against the test files.
+    - solve: source code file name 
 ## 27/APR TUE
 - next.js
   - jest-ed (re-done a bit because pages updated by re-usable input)
