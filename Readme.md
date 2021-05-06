@@ -1,3 +1,20 @@
+## 06/MAY THU
+- DLV-11 global config service
+  - update the dynamodb design and api spec following the discussion with Lea, Dan
+  - implement api super/(list|create|update)
+  - TODO:
+    - router (ATM, if/else)
+    - error handling
+    - input validation (incomeyear, percent etc)
+    - Redis(Cache)
+
+## 05/MAY WED
+- DLV-11 global config service
+  - config/list with dynamodb mapper - deploy with node_module
+  - dynamodb design? keys = MSCB, SGP
+    - sk? incomeYear?
+    - to query, pk is essential so query many times.
+    - a record has one value but the attribute name is different depending on the PK
 ## 04/MAY TUE
 - DLV-11 global config service
   - created lambda: { name: t50-global-config } function and linked to api-gateway
