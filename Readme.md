@@ -1,12 +1,27 @@
+## 10/MAY MON
+- DLV-11 global config service
+  - use https://www.npmjs.com/package/@vendia/serverless-express as RMF
+    - it makes us to reuse the framework we used already in the other serivce.
+    - the existing framework already cover error handling, input validation and swagger
+  - TODO:
+    - jest testing
+    - Redis(Cache)
+
+------------
+
+## 07/MAY FRI
+- DLV-11 global config service
+  - solved CORS problem: the doc created (https://confluence.aurion.io/display/TDS/CORS+cases)
+  - discussed to update UI, api and dynamodb: the doc updated (https://confluence.aurion.io/display/TDS/Global+Config)
+  - update api super/(list|update)
+  - RMF (Route Management Framework) (ATM, if/else)
+    https://confluence.aurion.io/display/TDS/RMF+for+lambda+and+node.js
+
 ## 06/MAY THU
 - DLV-11 global config service
   - update the dynamodb design and api spec following the discussion with Lea, Dan
   - implement api super/(list|create|update)
   - TODO:
-    - router (ATM, if/else)
-    - error handling
-    - input validation (incomeyear, percent etc)
-    - Redis(Cache)
 
 ## 05/MAY WED
 - DLV-11 global config service
