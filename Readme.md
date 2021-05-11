@@ -1,11 +1,20 @@
+## 11/MAY TUE
+- DLV-11 global config service
+  - deployed to poc account (for frontend testing) - used to get a trouble of cors.. add cors in express
+  - solve the problem on redirecting root -> returning 404 on not ending with html
+    - resolve: trailing slash set to true.
+      - trailing slash false: p.html generated when it's built
+      - trailing slash true: p/index.html generated when it's built
+  - jest test
+  - TODO:
+    - build/deploy pipeline
+    - Redis(Cache)
+
 ## 10/MAY MON
 - DLV-11 global config service
   - use https://www.npmjs.com/package/@vendia/serverless-express as RMF
     - it makes us to reuse the framework we used already in the other serivce.
     - the existing framework already cover error handling, input validation and swagger
-  - TODO:
-    - jest testing
-    - Redis(Cache)
 
 ------------
 
