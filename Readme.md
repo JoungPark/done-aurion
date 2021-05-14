@@ -1,3 +1,27 @@
+## 14/MAY FRI
+- DLV-11 global config service
+  - build/deploy pipeline
+    - problem solved (Runtime.ImportModuleError)
+    - upload the zip file to s3
+    - update lambda function
+  - create PR
+  - create Tech Debt tickets around Redis and ECR
+
+## 13/MAY THU
+- DLV-11 global config service
+  - build/deploy pipeline
+    - update bitbucket pipeline & shell scripts
+    - Problem: Runtime.ImportModuleError: Error: Cannot find module 'aws-xray-sdk-core/lib/middleware/sampling/service_connector'
+  - TODO:
+    - Redis(Cache)
+
+## 12/MAY WED
+- DLV-11 global config service
+  - jest test
+  - build/deploy pipeline
+  - TODO:
+    - Redis(Cache)
+
 ## 11/MAY TUE
 - DLV-11 global config service
   - deployed to poc account (for frontend testing) - used to get a trouble of cors.. add cors in express
@@ -5,10 +29,6 @@
     - resolve: trailing slash set to true.
       - trailing slash false: p.html generated when it's built
       - trailing slash true: p/index.html generated when it's built
-  - jest test
-  - TODO:
-    - build/deploy pipeline
-    - Redis(Cache)
 
 ## 10/MAY MON
 - DLV-11 global config service
